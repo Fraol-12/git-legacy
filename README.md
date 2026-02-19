@@ -195,4 +195,4 @@ This project is open source. See individual file headers for details.
 
 ---
 
-*Built with ❤️ for the hackathon. Every commit is a butterfly effect.*
+*Built with ❤️ for the chillaton. Every commit is a butterfly effect.*
